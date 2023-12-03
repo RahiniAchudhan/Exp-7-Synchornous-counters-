@@ -98,10 +98,12 @@ RegisterNumber:  23012479
 
 # DOWNCOUNTER:
 
+![dcounters wave](https://github.com/RahiniAchudhan/Exp-7-Synchornous-counters-/assets/145742838/d08aa35a-4fa7-4dbc-9df9-0d794d4cda97)
 
 # UPCOUNTER:
 
 
+![upcounters wave](https://github.com/RahiniAchudhan/Exp-7-Synchornous-counters-/assets/145742838/9db2dc4e-def7-4038-89bc-2d2fb5f5f08e)
 
 
 ### RESULTS 
